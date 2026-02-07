@@ -2,7 +2,7 @@
 
 A modern, responsive calendar application built with React, TypeScript, and Tailwind CSS. My Daily Planner helps you organize your schedule with an intuitive interface for managing events and daily tasks.
 
-![My Daily Planner Screenshot](screenshot.png)
+![screenshot](screenshot.png)
 
 ## Features
 
